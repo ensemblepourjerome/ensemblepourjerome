@@ -1,0 +1,21 @@
+enable : true
+heading : Nous
+headingSpan : Contacter
+title : Details
+content : Pour contacter l'association, il vous suffit d'entrer vos informations ci-contre. Nous vous répondrons dès que possible.
+enable_maps : true
+mapLatitude : 51.5223477
+mapLongitude: -0.1622023
+contactDetails :
+  - icon : tf-map-pin
+    info : "1 rue des Vosges - 68500 MERXHEIM"
+    
+  #- icon : tf-ion-ios-telephone-outline
+  # info : "Phone: +880-31-000-000"
+    
+ # - icon : tf-ion-iphone
+ #   info : "Fax: +880-31-000-000"
+    
+  - icon : tf-ion-ios-email-outline
+    info : "Email: ensemblepourjerome@yahoo.fr"
+    

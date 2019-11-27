@@ -1,0 +1,9 @@
+{{ if .Site.Params.event.enable }}
+{{with .Site.Params.event.event_url}}<a href="{{ . }}">{{ end }}
+<div class="event-area bg-change" >
+    <div class="event-content">
+         {{with .Site.Params.event.content}} <p>{{ . }}</p> {{ end }}
+    </div>
+</div>
+</a>
+{{end}}

@@ -1,7 +1,7 @@
 ---
 title: "Fête de la musique"
 date: 2018-09-12T12:52:36+06:00
-image: images/blog/fete_musique.jpg
+image: "images/blog/fete_musique.jpg"
 author: Jamica Jock
 description : "This is meta description"
 ---

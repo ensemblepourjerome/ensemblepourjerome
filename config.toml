@@ -52,7 +52,7 @@ custom_css = ["css/custom.css"]
 	# Event Section
     [params.event]
     enable = true
-    content= "Prochaine manifestation: Marche gourmande le 21 juin 2019!!   Cliquez pour plus d'infos.."   
+    content= "Prochaine manifestation: Marche gourmande le 21 juin 2032!!!   Cliquez pour plus d'infos.."   
     event_url= "blog/fete-musique"
 
     # Banner Section

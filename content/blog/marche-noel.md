@@ -6,4 +6,5 @@ image: "images/blog/marche-noel.jpg"
 description : "This is meta description"
 ---
 
+
 L'association a participé au marché de Noël de Soultzmatt en vendant des objets de décoration. 

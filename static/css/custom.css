@@ -7,9 +7,6 @@
 
 }
 .hero-area:before {
-    
-}
-.hero-area:before {
   content: '';
   background: rgba(131, 166, 246, 0.3);
   
@@ -35,3 +32,4 @@ display:block;
 width:1800px;height:800px;
 z-index:9999;
  }
+

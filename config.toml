@@ -1,5 +1,6 @@
 baseURL = "https://ensemblepourjerome.github.io"
-languageCode = "en-us"
+languageCode = "fr"
+DefaultContentLanguage = "fr"
 title = "Ensemble Pour Jérôme"
 theme= "meghna-hugo"
 publishDir = "ensemblepourjerome.github.io"

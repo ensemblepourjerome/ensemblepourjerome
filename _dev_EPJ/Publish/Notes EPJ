@@ -1,0 +1,16 @@
+Lien install Hugo Github: https://inside.getambassador.com/creating-and-deploying-your-first-hugo-site-to-github-pages-1e1f496cf88d
+
+#############Git set password#########
+git config --global credential.helper 'cache --timeout=10000000'
+
+Then do a publish with entering login/password and next time it should keep it.
+
+
+#############Publish#############
+git add .
+git commit -m "message du commit"
+git push -u origin master
+
+###########Publish by Bash#########
+/home/valdefont/Documents/Jordi/EPJ/Site/Hugo/ensemblepourjerome/_dev_EPJ/Publish/PublishEPJToGitHub.sh
+
